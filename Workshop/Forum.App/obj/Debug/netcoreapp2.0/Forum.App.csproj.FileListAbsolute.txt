@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\07. CSharp-OOP-Advanced-Workshop-Skeleton\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\07. CSharp-OOP-Advanced-Workshop-Skeleton\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\07. CSharp-OOP-Advanced-Workshop-Skeleton\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\07. CSharp-OOP-Advanced-Workshop-Skeleton\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.AssemblyInfo.cs
+C:\Users\User\Downloads\07. CSharp-OOP-Advanced-Workshop-Skeleton\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.deps.json
+C:\Users\User\Downloads\07. CSharp-OOP-Advanced-Workshop-Skeleton\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.json
+C:\Users\User\Downloads\07. CSharp-OOP-Advanced-Workshop-Skeleton\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.runtimeconfig.dev.json
+C:\Users\User\Downloads\07. CSharp-OOP-Advanced-Workshop-Skeleton\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.dll
+C:\Users\User\Downloads\07. CSharp-OOP-Advanced-Workshop-Skeleton\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.App.pdb
+C:\Users\User\Downloads\07. CSharp-OOP-Advanced-Workshop-Skeleton\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.dll
+C:\Users\User\Downloads\07. CSharp-OOP-Advanced-Workshop-Skeleton\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.DataModels.dll
+C:\Users\User\Downloads\07. CSharp-OOP-Advanced-Workshop-Skeleton\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.Data.pdb
+C:\Users\User\Downloads\07. CSharp-OOP-Advanced-Workshop-Skeleton\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\bin\Debug\netcoreapp2.0\Forum.DataModels.pdb
+C:\Users\User\Downloads\07. CSharp-OOP-Advanced-Workshop-Skeleton\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.dll
+C:\Users\User\Downloads\07. CSharp-OOP-Advanced-Workshop-Skeleton\07. CSharp-OOP-Advanced-Workshop-Skeleton\Forum.App\obj\Debug\netcoreapp2.0\Forum.App.pdb
