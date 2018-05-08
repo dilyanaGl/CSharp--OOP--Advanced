@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Integration\bin\Debug\netcoreapp2.0\Integration.deps.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Integration\bin\Debug\netcoreapp2.0\Integration.runtimeconfig.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Integration\bin\Debug\netcoreapp2.0\Integration.runtimeconfig.dev.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Integration\bin\Debug\netcoreapp2.0\Integration.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Integration\bin\Debug\netcoreapp2.0\Integration.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Integration\obj\Debug\netcoreapp2.0\Integration.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Integration\obj\Debug\netcoreapp2.0\Integration.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Integration\obj\Debug\netcoreapp2.0\Integration.AssemblyInfo.cs
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Integration\obj\Debug\netcoreapp2.0\Integration.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Integration\obj\Debug\netcoreapp2.0\Integration.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Integration\obj\Debug\netcoreapp2.0\Integration.csprojResolveAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Alarm\bin\Debug\netcoreapp2.0\Alarm.deps.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Alarm\bin\Debug\netcoreapp2.0\Alarm.runtimeconfig.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Alarm\bin\Debug\netcoreapp2.0\Alarm.runtimeconfig.dev.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Alarm\bin\Debug\netcoreapp2.0\Alarm.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Alarm\bin\Debug\netcoreapp2.0\Alarm.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Alarm\obj\Debug\netcoreapp2.0\Alarm.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Alarm\obj\Debug\netcoreapp2.0\Alarm.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Alarm\obj\Debug\netcoreapp2.0\Alarm.AssemblyInfo.cs
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Alarm\obj\Debug\netcoreapp2.0\Alarm.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Alarm\obj\Debug\netcoreapp2.0\Alarm.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Alarm\obj\Debug\netcoreapp2.0\Alarm.csprojResolveAssemblyReference.cache

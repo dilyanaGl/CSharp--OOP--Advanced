@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\bin\Debug\netcoreapp2.0\DatabaseTests.deps.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\bin\Debug\netcoreapp2.0\DatabaseTests.runtimeconfig.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\bin\Debug\netcoreapp2.0\DatabaseTests.runtimeconfig.dev.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\bin\Debug\netcoreapp2.0\DatabaseTests.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\bin\Debug\netcoreapp2.0\DatabaseTests.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\bin\Debug\netcoreapp2.0\DataBase.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\bin\Debug\netcoreapp2.0\DataBase.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\obj\Debug\netcoreapp2.0\DatabaseTests.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\obj\Debug\netcoreapp2.0\DatabaseTests.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\obj\Debug\netcoreapp2.0\DatabaseTests.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\obj\Debug\netcoreapp2.0\DatabaseTests.AssemblyInfo.cs
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\obj\Debug\netcoreapp2.0\DatabaseTests.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\TestAlarm\obj\Debug\netcoreapp2.0\DatabaseTests.pdb

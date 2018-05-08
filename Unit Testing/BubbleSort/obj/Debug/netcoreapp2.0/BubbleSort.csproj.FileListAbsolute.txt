@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.deps.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.runtimeconfig.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.runtimeconfig.dev.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleSort\bin\Debug\netcoreapp2.0\BubbleSort.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.AssemblyInfo.cs
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleSort\obj\Debug\netcoreapp2.0\BubbleSort.csprojResolveAssemblyReference.cache

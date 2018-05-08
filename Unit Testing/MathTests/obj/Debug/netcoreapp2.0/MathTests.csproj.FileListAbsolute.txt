@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\bin\Debug\netcoreapp2.0\MathTests.deps.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\bin\Debug\netcoreapp2.0\MathTests.runtimeconfig.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\bin\Debug\netcoreapp2.0\MathTests.runtimeconfig.dev.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\bin\Debug\netcoreapp2.0\MathTests.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\bin\Debug\netcoreapp2.0\MathTests.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\obj\Debug\netcoreapp2.0\MathTests.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\obj\Debug\netcoreapp2.0\MathTests.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\obj\Debug\netcoreapp2.0\MathTests.AssemblyInfo.cs
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\obj\Debug\netcoreapp2.0\MathTests.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\obj\Debug\netcoreapp2.0\MathTests.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\bin\Debug\netcoreapp2.0\MatchClass.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\bin\Debug\netcoreapp2.0\MatchClass.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\MathTests\obj\Debug\netcoreapp2.0\MathTests.csprojResolveAssemblyReference.cache

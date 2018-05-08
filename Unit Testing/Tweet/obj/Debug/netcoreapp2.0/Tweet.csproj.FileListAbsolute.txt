@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Tweet\bin\Debug\netcoreapp2.0\Tweet.deps.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Tweet\bin\Debug\netcoreapp2.0\Tweet.runtimeconfig.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Tweet\bin\Debug\netcoreapp2.0\Tweet.runtimeconfig.dev.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Tweet\bin\Debug\netcoreapp2.0\Tweet.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Tweet\bin\Debug\netcoreapp2.0\Tweet.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Tweet\obj\Debug\netcoreapp2.0\Tweet.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Tweet\obj\Debug\netcoreapp2.0\Tweet.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Tweet\obj\Debug\netcoreapp2.0\Tweet.AssemblyInfo.cs
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Tweet\obj\Debug\netcoreapp2.0\Tweet.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Tweet\obj\Debug\netcoreapp2.0\Tweet.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Tweet\obj\Debug\netcoreapp2.0\Tweet.csprojResolveAssemblyReference.cache

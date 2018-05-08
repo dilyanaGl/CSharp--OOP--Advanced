@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Sensor\bin\Debug\netcoreapp2.0\Sensor.deps.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Sensor\bin\Debug\netcoreapp2.0\Sensor.runtimeconfig.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Sensor\bin\Debug\netcoreapp2.0\Sensor.runtimeconfig.dev.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Sensor\bin\Debug\netcoreapp2.0\Sensor.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Sensor\bin\Debug\netcoreapp2.0\Sensor.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Sensor\obj\Debug\netcoreapp2.0\Sensor.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Sensor\obj\Debug\netcoreapp2.0\Sensor.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Sensor\obj\Debug\netcoreapp2.0\Sensor.AssemblyInfo.cs
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Sensor\obj\Debug\netcoreapp2.0\Sensor.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Sensor\obj\Debug\netcoreapp2.0\Sensor.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\Sensor\obj\Debug\netcoreapp2.0\Sensor.csprojResolveAssemblyReference.cache

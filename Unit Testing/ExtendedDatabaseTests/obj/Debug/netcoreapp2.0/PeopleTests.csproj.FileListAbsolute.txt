@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\bin\Debug\netcoreapp2.0\PeopleTests.deps.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\bin\Debug\netcoreapp2.0\PeopleTests.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\bin\Debug\netcoreapp2.0\PeopleTests.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\obj\Debug\netcoreapp2.0\PeopleTests.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\obj\Debug\netcoreapp2.0\PeopleTests.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\obj\Debug\netcoreapp2.0\PeopleTests.AssemblyInfo.cs
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\obj\Debug\netcoreapp2.0\PeopleTests.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\obj\Debug\netcoreapp2.0\PeopleTests.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\bin\Debug\netcoreapp2.0\PeopleTests.runtimeconfig.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\bin\Debug\netcoreapp2.0\PeopleTests.runtimeconfig.dev.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\bin\Debug\netcoreapp2.0\DataBase - People.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\bin\Debug\netcoreapp2.0\DataBase - People.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\PeopleTests\obj\Debug\netcoreapp2.0\PeopleTests.csprojResolveAssemblyReference.cache

@@ -1,0 +1,8 @@
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DateTameAddDays\bin\Debug\netcoreapp2.0\DateTameClass.deps.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DateTameAddDays\bin\Debug\netcoreapp2.0\DateTameClass.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DateTameAddDays\bin\Debug\netcoreapp2.0\DateTameClass.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DateTameAddDays\obj\Debug\netcoreapp2.0\DateTameClass.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DateTameAddDays\obj\Debug\netcoreapp2.0\DateTameClass.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DateTameAddDays\obj\Debug\netcoreapp2.0\DateTameClass.AssemblyInfo.cs
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DateTameAddDays\obj\Debug\netcoreapp2.0\DateTameClass.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DateTameAddDays\obj\Debug\netcoreapp2.0\DateTameClass.pdb

@@ -1,0 +1,11 @@
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DataBase - People\bin\Debug\netcoreapp2.0\DataBase - People.deps.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DataBase - People\bin\Debug\netcoreapp2.0\DataBase - People.runtimeconfig.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DataBase - People\bin\Debug\netcoreapp2.0\DataBase - People.runtimeconfig.dev.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DataBase - People\bin\Debug\netcoreapp2.0\DataBase - People.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DataBase - People\bin\Debug\netcoreapp2.0\DataBase - People.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DataBase - People\obj\Debug\netcoreapp2.0\DataBase - People.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DataBase - People\obj\Debug\netcoreapp2.0\DataBase - People.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DataBase - People\obj\Debug\netcoreapp2.0\DataBase - People.AssemblyInfo.cs
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DataBase - People\obj\Debug\netcoreapp2.0\DataBase - People.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DataBase - People\obj\Debug\netcoreapp2.0\DataBase - People.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\DataBase - People\obj\Debug\netcoreapp2.0\DataBase - People.csprojResolveAssemblyReference.cache

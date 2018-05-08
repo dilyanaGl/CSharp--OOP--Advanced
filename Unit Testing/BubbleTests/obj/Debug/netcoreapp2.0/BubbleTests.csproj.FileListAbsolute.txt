@@ -1,0 +1,17 @@
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\bin\Debug\netcoreapp2.0\BubbleTests.deps.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\bin\Debug\netcoreapp2.0\BubbleTests.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\bin\Debug\netcoreapp2.0\BubbleTests.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\obj\Debug\netcoreapp2.0\BubbleTests.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\obj\Debug\netcoreapp2.0\BubbleTests.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\obj\Debug\netcoreapp2.0\BubbleTests.AssemblyInfo.cs
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\obj\Debug\netcoreapp2.0\BubbleTests.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\obj\Debug\netcoreapp2.0\BubbleTests.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\bin\Debug\netcoreapp2.0\BubbleTests.runtimeconfig.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\bin\Debug\netcoreapp2.0\BubbleTests.runtimeconfig.dev.json
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\bin\Debug\netcoreapp2.0\BubbleSort.dll
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\bin\Debug\netcoreapp2.0\BubbleSort.pdb
+C:\Users\User\Downloads\05. CSharp-OOP-Advanced-Unit-Testing-Exercises-Skeleton\CustomLinkedList\BubbleTests\obj\Debug\netcoreapp2.0\BubbleTests.csprojResolveAssemblyReference.cache
